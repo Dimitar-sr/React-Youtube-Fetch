@@ -1,10 +1,20 @@
 .App {
   text-align: center;
 }
-
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 100px;
+}
+.App-header{
+  background-color: #000000;
+}
+.Youtube{
+  margin: 15px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  color: white;
+  background-color: red;
 }
 
 @keyframes App-logo-spin {
